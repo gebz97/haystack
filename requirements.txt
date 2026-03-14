@@ -1,0 +1,9 @@
+paramiko
+polars
+packaging
+pydantic
+click
+hvac
+pyyaml
+psycopg[binary]
+sqlalchemy
